@@ -6,5 +6,8 @@
 - persian
 - chaines
 - italian
+- Indian and Moroccan
 ## its new Favourit 
 1- Game
+
+
