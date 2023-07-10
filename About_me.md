@@ -6,3 +6,4 @@
 - persian
 - chaines
 - italian
+- Indian and Moroccan
